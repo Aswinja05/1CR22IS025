@@ -20,7 +20,6 @@ Request Body:
 ```
 <img width="926" height="623" alt="image" src="https://github.com/user-attachments/assets/7e995057-bb9b-4ff9-af1b-182f3585b79e" />
 
----
 
 **GET** `/shorturls/:shortcode`
 
